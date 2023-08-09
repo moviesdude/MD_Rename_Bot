@@ -42,8 +42,8 @@ async def start(client,message):
 	**Document Or Video** and enter new filename to rename it__
 	""",reply_to_message_id = message.id ,  
 	reply_markup=InlineKeyboardMarkup(
-	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/WebXBots") ], 
-	[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/@Divin_Dass") ]  ]))
+	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/MD_Bots")],
+	[InlineKeyboardButton("Subscribe 🧐", url="https://t.me/Team_MDL") ]  ]))
 	    return
 	if id:
 	    if old == True:
@@ -55,8 +55,8 @@ async def start(client,message):
 	**Document Or Video** and enter new filename to rename it__
 	""",reply_to_message_id = message.id ,  
 	reply_markup=InlineKeyboardMarkup(
-	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/WebXBots") ], 
-	[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/@Divin_Dass") ]  ]))
+	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/MD_Bots") ], 
+	[InlineKeyboardButton("Subscribe 🧐", url="https://t.me/Team_MDL") ]  ]))
 	        except:
 	             return
 	    else:
@@ -71,8 +71,8 @@ async def start(client,message):
 	**Document Or Video** and enter new filename to rename it__
 	""",reply_to_message_id = message.id ,  
 	reply_markup=InlineKeyboardMarkup(
-	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/WebXBots") ], 
-	[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/@Divin_Dass") ]  ]))
+	[[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/MD_Bots") ], 
+	[InlineKeyboardButton("Subscribe 🧐", url="https://t.me/Team_MDL") ]  ]))
 	         
 
 
