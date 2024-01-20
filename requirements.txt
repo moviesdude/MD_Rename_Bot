@@ -5,3 +5,4 @@ pyrogram==2.0.57
 TgCrypto
 pymongo==4.0.2
 dnspython
+aiohttp
